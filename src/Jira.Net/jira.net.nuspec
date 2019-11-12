@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/justin0522/Jira.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/justin0522/Jira.Net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>create the project</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Jira .Net C#</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
