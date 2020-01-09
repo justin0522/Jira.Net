@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.779
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira.Net", "Jira.Net\Jira.Net.csproj", "{E49FCC6B-6ACD-498B-B614-EAA0216DB54C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jira.Net", "Jira.Net\Jira.Net.csproj", "{1D1CCC8A-1E84-40C2-8167-5BF773291488}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira.Net.Test", "Jira.Net.Test\Jira.Net.Test.csproj", "{50DD160A-50DD-4FFA-83C1-562DBE6DBAAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jira.Net.Test", "Jira.Net.Test\Jira.Net.Test.csproj", "{FC7540EF-FDAC-4FDE-B7E1-E87D974A77DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E49FCC6B-6ACD-498B-B614-EAA0216DB54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E49FCC6B-6ACD-498B-B614-EAA0216DB54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E49FCC6B-6ACD-498B-B614-EAA0216DB54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E49FCC6B-6ACD-498B-B614-EAA0216DB54C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50DD160A-50DD-4FFA-83C1-562DBE6DBAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50DD160A-50DD-4FFA-83C1-562DBE6DBAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50DD160A-50DD-4FFA-83C1-562DBE6DBAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50DD160A-50DD-4FFA-83C1-562DBE6DBAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1CCC8A-1E84-40C2-8167-5BF773291488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1CCC8A-1E84-40C2-8167-5BF773291488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1CCC8A-1E84-40C2-8167-5BF773291488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1CCC8A-1E84-40C2-8167-5BF773291488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7540EF-FDAC-4FDE-B7E1-E87D974A77DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7540EF-FDAC-4FDE-B7E1-E87D974A77DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7540EF-FDAC-4FDE-B7E1-E87D974A77DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7540EF-FDAC-4FDE-B7E1-E87D974A77DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3FF39564-1855-4693-A141-6793B0D5F78D}
+		SolutionGuid = {1CE88C08-6967-41B1-B78C-0FCFBB37C4AB}
 	EndGlobalSection
 EndGlobal

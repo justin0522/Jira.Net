@@ -132,7 +132,7 @@ namespace Jira.Net
             {
                 return true;
             };
-            ServicePointManager.SecurityProtocol = SecurityProtocolType.Ssl3 | SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls | SecurityProtocolType.Tls11 | SecurityProtocolType.Tls12;
             Client.AddHandler("application/json", () => new RestSharpJsonNetSerializer());
         }
 
